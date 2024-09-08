@@ -9,32 +9,46 @@
  * }
  */
 class Solution {
-  public ListNode[] splitListToParts(ListNode root, int k) {
-    ListNode[] ans = new ListNode[k];
-    final int length = getLength(root);
-    final int subLength = length / k;
-    int remainder = length % k;
 
-    ListNode prev = null;
-    ListNode head = root;
+    public ListNode[] splitListToParts(ListNode head, int k) {
+        ListNode[] ans = new ListNode[k];
 
-    for (int i = 0; i < k; ++i, --remainder) {
-      ans[i] = head;
-      for (int j = 0; j < subLength + (remainder > 0 ? 1 : 0); ++j) {
-        prev = head;
-        head = head.next;
-      }
-      if (prev != null)
-        prev.next = null;
+        // get total size of linked list
+        int size = 0;
+        ListNode current = head;
+        while (current != null) {
+            size++;
+            current = current.next;
+        }
+
+        // minimum size for the k parts
+        int splitSize = size / k;
+
+        // Remaining nodes after splitting the k parts evenly.
+        // These will be distributed to the first (size % k) nodes
+        int numRemainingParts = size % k;
+
+        current = head;
+        for (int i = 0; i < k; i++) {
+            // create the i-th part
+            ListNode newPart = new ListNode(0);
+            ListNode tail = newPart;
+
+            int currentSize = splitSize;
+            if (numRemainingParts > 0) {
+                numRemainingParts--;
+                currentSize++;
+            }
+            int j = 0;
+            while (j < currentSize) {
+                tail.next = new ListNode(current.val);
+                tail = tail.next;
+                j++;
+                current = current.next;
+            }
+            ans[i] = newPart.next;
+        }
+
+        return ans;
     }
-
-    return ans;
-  }
-
-  private int getLength(ListNode root) {
-    int length = 0;
-    for (ListNode curr = root; curr != null; curr = curr.next)
-      ++length;
-    return length;
-  }
 }
