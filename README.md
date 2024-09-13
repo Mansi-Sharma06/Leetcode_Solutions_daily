@@ -12,6 +12,7 @@ daily leetcode solution available
 ## Array
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 ## Matrix
@@ -33,6 +34,7 @@ daily leetcode solution available
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
@@ -47,4 +49,8 @@ daily leetcode solution available
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
