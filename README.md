@@ -115,4 +115,5 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
