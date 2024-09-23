@@ -18,6 +18,7 @@ daily leetcode solution available
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@ daily leetcode solution available
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ daily leetcode solution available
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -116,4 +120,5 @@ daily leetcode solution available
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
