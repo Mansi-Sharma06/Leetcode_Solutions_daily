@@ -20,6 +20,7 @@ daily leetcode solution available
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -148,6 +149,7 @@ daily leetcode solution available
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -166,4 +168,8 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
