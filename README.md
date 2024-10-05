@@ -63,6 +63,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -79,6 +80,7 @@ daily leetcode solution available
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -189,6 +191,11 @@ daily leetcode solution available
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
