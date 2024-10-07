@@ -42,6 +42,7 @@ daily leetcode solution available
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ daily leetcode solution available
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
@@ -190,6 +192,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
