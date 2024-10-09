@@ -84,6 +84,7 @@ daily leetcode solution available
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
@@ -121,6 +122,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@ daily leetcode solution available
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
