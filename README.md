@@ -53,6 +53,7 @@ daily leetcode solution available
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -135,6 +136,7 @@ daily leetcode solution available
 | ------- |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
