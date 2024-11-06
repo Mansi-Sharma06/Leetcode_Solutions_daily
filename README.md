@@ -45,6 +45,7 @@ daily leetcode solution available
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ daily leetcode solution available
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ daily leetcode solution available
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
