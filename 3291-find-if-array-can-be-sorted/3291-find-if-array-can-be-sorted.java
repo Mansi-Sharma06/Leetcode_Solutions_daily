@@ -1,30 +1,38 @@
 class Solution {
 
     public boolean canSortArray(int[] nums) {
-        // Avoid modifying the input directly
-        int[] values = Arrays.copyOf(nums, nums.length);
+        // Number of set bits of the elements in the current segment
+        int numOfSetBits = Integer.bitCount(nums[0]);
+        int maxOfSegment = nums[0];
+        int minOfSegment = nums[0];
 
-        int n = values.length;
+        // Initialize max of the previous segment to the smallest possible integer
+        int maxOfPrevSegment = Integer.MIN_VALUE;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (values[j] <= values[j + 1]) {
-                    // No swap needed
-                    continue;
-                } else {
-                    if (
-                        Integer.bitCount(values[j]) ==
-                        Integer.bitCount(values[j + 1])
-                    ) {
-                        // Swap the elements
-                        int temp = values[j];
-                        values[j] = values[j + 1];
-                        values[j + 1] = temp;
-                    } else {
-                        return false;
-                    }
+        for (int i = 1; i < nums.length; i++) {
+            if (Integer.bitCount(nums[i]) == numOfSetBits) {
+                // Element belongs to the same segment
+                // Update min and max values of the segment
+                maxOfSegment = Math.max(maxOfSegment, nums[i]);
+                minOfSegment = Math.min(minOfSegment, nums[i]);
+            } else { // Element belongs to a new segment
+                // Check if the segments are arranged properly
+                if (minOfSegment < maxOfPrevSegment) {
+                    return false;
                 }
+
+                // Update the previous segment's max
+                maxOfPrevSegment = maxOfSegment;
+
+                // Start a new segment with the current element
+                maxOfSegment = nums[i];
+                minOfSegment = nums[i];
+                numOfSetBits = Integer.bitCount(nums[i]);
             }
+        }
+        // Final check for proper segment arrangement
+        if (minOfSegment < maxOfPrevSegment) {
+            return false;
         }
         return true;
     }
