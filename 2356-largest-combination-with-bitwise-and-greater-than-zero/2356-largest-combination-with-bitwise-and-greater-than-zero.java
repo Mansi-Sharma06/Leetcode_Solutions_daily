@@ -1,23 +1,16 @@
 class Solution {
 
     public int largestCombination(int[] candidates) {
-        // Initialize an array to store the count of each bit position.
-        int[] bitCount = new int[24];
+        int maxCount = 0; // Variable to track the maximum count of set bits.
         for (int i = 0; i < 24; i++) {
+            int count = 0; // Count of numbers with the i-th bit set.
             for (int num : candidates) {
-                // Check if the i-th bit is set.
-                if ((num & (1 << i)) != 0) {
-                    bitCount[i]++;
+                if ((num & (1 << i)) != 0) { // Check if the i-th bit is set.
+                    count++;
                 }
             }
+            maxCount = Math.max(maxCount, count); // Update the maximum count.
         }
-        // Return the maximum count.
-        int max = 0;
-        for (int count : bitCount) {
-            if (count > max) {
-                max = count;
-            }
-        }
-        return max;
+        return maxCount;
     }
 }
