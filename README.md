@@ -46,6 +46,7 @@ daily leetcode solution available
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -74,6 +75,7 @@ daily leetcode solution available
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
@@ -352,6 +354,7 @@ daily leetcode solution available
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
@@ -374,6 +377,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -392,6 +396,11 @@ daily leetcode solution available
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
