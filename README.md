@@ -77,6 +77,7 @@ daily leetcode solution available
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +101,7 @@ daily leetcode solution available
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ daily leetcode solution available
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -414,6 +417,7 @@ daily leetcode solution available
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
