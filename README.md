@@ -60,6 +60,7 @@ daily leetcode solution available
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2358-number-of-ways-to-split-array) |
@@ -206,6 +207,7 @@ daily leetcode solution available
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2465-shifting-letters-ii) |
@@ -332,6 +334,7 @@ daily leetcode solution available
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
