@@ -387,6 +387,7 @@ daily leetcode solution available
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -566,6 +567,7 @@ daily leetcode solution available
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
@@ -600,6 +602,7 @@ daily leetcode solution available
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
@@ -627,6 +630,7 @@ daily leetcode solution available
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
