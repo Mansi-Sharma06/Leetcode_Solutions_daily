@@ -1,86 +1,40 @@
 class Solution {
 
-    // Check if the current sequence matches the pattern of 'I' and 'D'
-    private boolean check(String sequence, String pattern) {
-        for (int index = 0; index < pattern.length(); index++) {
-            if (pattern.charAt(index) == 'I') {
-                // Ensure the sequence is in increasing order at 'I' positions
-                if (sequence.charAt(index) > sequence.charAt(index + 1)) {
-                    return false;
-                }
-            } else {
-                // Ensure the sequence is in decreasing order at 'D' positions
-                if (sequence.charAt(index) < sequence.charAt(index + 1)) {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-
     public String smallestNumber(String pattern) {
-        int patternLength = pattern.length();
-        char[] numberSequence = new char[patternLength + 1];
-
-        // Create a sequence of numbers from '1' to 'n+1'
-        for (int position = 0; position <= patternLength; position++) {
-            numberSequence[position] = (char) ('1' + position);
-        }
-
-        // Generate permutations and check for the correct pattern
-        while (!check(new String(numberSequence), pattern)) {
-            if (!findNextPermutation(numberSequence)) {
-                break;
-            }
-        }
-
-        return new String(numberSequence);
+        return String.valueOf(findSmallestNumber(pattern, 0, 0, 0));
     }
 
-    // Custom implementation of the next permutation function
-    private boolean findNextPermutation(char[] numberSequence) {
-        int lastIncreasingIndex = numberSequence.length - 2;
+    // Recursively find the smallest number that satisfies the pattern
+    private int findSmallestNumber(
+        String pattern,
+        int currentPosition,
+        int usedDigitsMask,
+        int currentNum
+    ) {
+        // Base case: return the current number when the whole pattern is processed
+        if (currentPosition > pattern.length()) return currentNum;
 
-        // Find the rightmost character smaller than its next character
-        while (
-            lastIncreasingIndex >= 0 &&
-            numberSequence[lastIncreasingIndex] >=
-            numberSequence[lastIncreasingIndex + 1]
-        ) {
-            lastIncreasingIndex--;
+        int result = Integer.MAX_VALUE;
+        int lastDigit = currentNum % 10;
+        boolean shouldIncrement =
+            currentPosition == 0 || pattern.charAt(currentPosition - 1) == 'I';
+
+        // Try all possible digits (1 to 9) that are not yet used and follow the pattern
+        for (int currentDigit = 1; currentDigit <= 9; ++currentDigit) {
+            if (
+                (usedDigitsMask & (1 << currentDigit)) == 0 &&
+                currentDigit > lastDigit == shouldIncrement
+            ) result = Math.min(
+                result,
+                findSmallestNumber(
+                    pattern,
+                    currentPosition + 1,
+                    usedDigitsMask | (1 << currentDigit),
+                    currentNum * 10 + currentDigit
+                )
+            );
         }
-        if (lastIncreasingIndex == -1) return false;
 
-        // Find the rightmost character greater than numberSequence[lastIncreasingIndex]
-        // and swap
-        int swapIndex = numberSequence.length - 1;
-        while (
-            numberSequence[swapIndex] <= numberSequence[lastIncreasingIndex]
-        ) {
-            swapIndex--;
-        }
-        swapCharacters(numberSequence, lastIncreasingIndex, swapIndex);
-
-        // Reverse the suffix to get the next lexicographically smallest permutation
-        reverseSuffix(
-            numberSequence,
-            lastIncreasingIndex + 1,
-            numberSequence.length - 1
-        );
-        return true;
-    }
-
-    private void swapCharacters(char[] array, int firstIdx, int secondIdx) {
-        char temp = array[firstIdx];
-        array[firstIdx] = array[secondIdx];
-        array[secondIdx] = temp;
-    }
-
-    private void reverseSuffix(char[] array, int startIdx, int endIdx) {
-        while (startIdx < endIdx) {
-            swapCharacters(array, startIdx, endIdx);
-            startIdx++;
-            endIdx--;
-        }
+        return result;
     }
 }
