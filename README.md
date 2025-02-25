@@ -48,6 +48,7 @@ daily leetcode solution available
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -166,6 +167,7 @@ daily leetcode solution available
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -323,6 +325,7 @@ daily leetcode solution available
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1940-maximum-xor-for-each-query) |
@@ -393,6 +396,7 @@ daily leetcode solution available
 | [1025-minimum-cost-for-tickets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
