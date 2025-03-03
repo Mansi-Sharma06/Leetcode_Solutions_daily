@@ -76,6 +76,7 @@ daily leetcode solution available
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -155,6 +156,7 @@ daily leetcode solution available
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
@@ -564,6 +566,7 @@ daily leetcode solution available
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
