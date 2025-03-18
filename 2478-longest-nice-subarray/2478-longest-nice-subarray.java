@@ -1,43 +1,25 @@
 class Solution {
 
     public int longestNiceSubarray(int[] nums) {
-        // Binary search for the longest nice subarray length
-        int left = 0, right = nums.length;
-        int result = 1; // Minimum answer is 1 (as subarrays of length 1 are always nice)
+        int usedBits = 0; // Tracks bits used in current window
+        int windowStart = 0; // Start position of current window
+        int maxLength = 0; // Length of longest nice subarray found
 
-        while (left <= right) {
-            int length = left + (right - left) / 2;
-            if (canFormNiceSubarray(length, nums)) {
-                result = length; // Update the result
-                left = length + 1; // Try to find a longer subarray
-            } else {
-                right = length - 1; // Try a shorter length
-            }
-        }
-        return result;
-    }
-
-    private boolean canFormNiceSubarray(int length, int[] nums) {
-        if (length <= 1) return true; // Subarray of length 1 is always nice
-
-        // Try each possible starting position for subarray of given length
-        for (int start = 0; start <= nums.length - length; ++start) {
-            int bitMask = 0; // Tracks the bits used in the current subarray
-            boolean isNice = true;
-
-            // Check if the subarray starting at 'start' with 'length' elements is nice
-            for (int pos = start; pos < start + length; ++pos) {
-                // If current number shares any bits with existing mask,
-                // the subarray is not nice
-                if ((bitMask & nums[pos]) != 0) {
-                    isNice = false;
-                    break;
-                }
-                bitMask |= nums[pos]; // Add current number's bits to the mask
+        for (int windowEnd = 0; windowEnd < nums.length; ++windowEnd) {
+            // If current number shares bits with window, shrink window from left
+            // until there's no bit conflict
+            while ((usedBits & nums[windowEnd]) != 0) {
+                usedBits ^= nums[windowStart]; // Remove leftmost element's bits
+                windowStart++;
             }
 
-            if (isNice) return true; // Found a nice subarray of the specified length
+            // Add current number to the window
+            usedBits |= nums[windowEnd];
+
+            // Update max length if current window is longer
+            maxLength = Math.max(maxLength, windowEnd - windowStart + 1);
         }
-        return false; // No nice subarray of the given length exists
+
+        return maxLength;
     }
 }
