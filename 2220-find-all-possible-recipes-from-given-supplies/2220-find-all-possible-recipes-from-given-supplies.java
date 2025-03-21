@@ -5,15 +5,16 @@ class Solution {
         List<List<String>> ingredients,
         String[] supplies
     ) {
-        List<String> possibleRecipes = new ArrayList<>();
-        // Track if ingredient/recipe can be made
-        Map<String, Boolean> canMake = new HashMap<>();
-        // Map recipe name to its index in ingredients list
+        // Store available supplies
+        Set<String> availableSupplies = new HashSet<>();
+        // Map recipe to its index
         Map<String, Integer> recipeToIndex = new HashMap<>();
+        // Map ingredient to recipes that need it
+        Map<String, List<String>> dependencyGraph = new HashMap<>();
 
-        // Mark all initial supplies as available
+        // Initialize available supplies
         for (String supply : supplies) {
-            canMake.put(supply, true);
+            availableSupplies.add(supply);
         }
 
         // Create recipe to index mapping
@@ -21,62 +22,50 @@ class Solution {
             recipeToIndex.put(recipes[idx], idx);
         }
 
-        // Try to make each recipe using DFS
-        for (String recipe : recipes) {
-            checkRecipe(
-                recipe,
-                ingredients,
-                new HashSet<String>(),
-                canMake,
-                recipeToIndex
-            );
-            if (canMake.get(recipe)) {
-                possibleRecipes.add(recipe);
+        // Count of non-supply ingredients needed for each recipe
+        int[] inDegree = new int[recipes.length];
+
+        // Build dependency graph
+        for (int recipeIdx = 0; recipeIdx < recipes.length; recipeIdx++) {
+            for (String ingredient : ingredients.get(recipeIdx)) {
+                if (!availableSupplies.contains(ingredient)) {
+                    // Add edge: ingredient -> recipe
+                    dependencyGraph.putIfAbsent(
+                        ingredient,
+                        new ArrayList<String>()
+                    );
+                    dependencyGraph.get(ingredient).add(recipes[recipeIdx]);
+                    inDegree[recipeIdx]++;
+                }
             }
         }
 
-        return possibleRecipes;
-    }
-
-    private void checkRecipe(
-        String recipe,
-        List<List<String>> ingredients,
-        Set<String> visited,
-        Map<String, Boolean> canMake,
-        Map<String, Integer> recipeToIndex
-    ) {
-        // Return if we already know if recipe can be made
-        if (canMake.containsKey(recipe) && canMake.get(recipe)) {
-            return;
-        }
-
-        // Not a valid recipe or cycle detected
-        if (!recipeToIndex.containsKey(recipe) || visited.contains(recipe)) {
-            canMake.put(recipe, false);
-            return;
-        }
-
-        visited.add(recipe);
-
-        // Check if we can make all required ingredients
-        List<String> neededIngredients = ingredients.get(
-            recipeToIndex.get(recipe)
-        );
-        for (String ingredient : neededIngredients) {
-            checkRecipe(
-                ingredient,
-                ingredients,
-                visited,
-                canMake,
-                recipeToIndex
-            );
-            if (!canMake.get(ingredient)) {
-                canMake.put(recipe, false);
-                return;
+        // Start with recipes that only need supplies
+        Queue<Integer> queue = new LinkedList<>();
+        for (int recipeIdx = 0; recipeIdx < recipes.length; recipeIdx++) {
+            if (inDegree[recipeIdx] == 0) {
+                queue.add(recipeIdx);
             }
         }
 
-        // All ingredients can be made
-        canMake.put(recipe, true);
+        // Process recipes in topological order
+        List<String> createdRecipes = new ArrayList<>();
+        while (!queue.isEmpty()) {
+            int recipeIdx = queue.poll();
+            String recipe = recipes[recipeIdx];
+            createdRecipes.add(recipe);
+
+            // Skip if no recipes depend on this one
+            if (!dependencyGraph.containsKey(recipe)) continue;
+
+            // Update recipes that depend on current recipe
+            for (String dependentRecipe : dependencyGraph.get(recipe)) {
+                if (--inDegree[recipeToIndex.get(dependentRecipe)] == 0) {
+                    queue.add(recipeToIndex.get(dependentRecipe));
+                }
+            }
+        }
+
+        return createdRecipes;
     }
 }
