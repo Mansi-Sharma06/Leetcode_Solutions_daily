@@ -7,6 +7,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
@@ -478,6 +479,7 @@ daily leetcode solution available
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
