@@ -9,13 +9,17 @@
  * }
  */
 class Solution {
-  public ListNode reverseList(ListNode head) {
-    if (head == null || head.next == null)
-      return head;
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;  // Initially, there's no previous node
+    ListNode curr = head;  // Start from the head of the list
+    
+    while (curr != null) {  // Traverse the list
+      ListNode next = curr.next; // Store next node before breaking the link
+      curr.next = prev;          // Reverse the pointer (make curr point to prev)
+      prev = curr;               // Move prev forward to curr
+      curr = next;               // Move curr forward to next
+    }
 
-    ListNode newHead = reverseList(head.next);
-    head.next.next = head;
-    head.next = null;
-    return newHead;
-  }
+    return prev; // New head of the reversed list
+    }
 }
