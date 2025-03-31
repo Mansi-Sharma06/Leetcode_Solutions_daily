@@ -7,6 +7,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0725-split-linked-list-in-parts) |
@@ -244,6 +245,7 @@ daily leetcode solution available
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -631,6 +633,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
