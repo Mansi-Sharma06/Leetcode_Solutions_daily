@@ -10,16 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;  // Initially, there's no previous node
-    ListNode curr = head;  // Start from the head of the list
-    
-    while (curr != null) {  // Traverse the list
-      ListNode next = curr.next; // Store next node before breaking the link
-      curr.next = prev;          // Reverse the pointer (make curr point to prev)
-      prev = curr;               // Move prev forward to curr
-      curr = next;               // Move curr forward to next
-    }
+        ListNode prev = null;
+        ListNode curr = head;
 
-    return prev; // New head of the reversed list
+        while(curr != null){
+            ListNode next = curr.next; // store the next node
+            curr.next = prev; // reverse the link
+            prev = curr; // move prev forward
+            curr = next; // move next forward
+        }
+        return prev;
     }
 }
