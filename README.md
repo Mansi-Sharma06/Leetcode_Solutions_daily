@@ -72,6 +72,7 @@ daily leetcode solution available
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
@@ -205,6 +206,7 @@ daily leetcode solution available
 | [1477-product-of-the-last-k-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2610-closest-prime-numbers-in-range) |
@@ -229,6 +231,7 @@ daily leetcode solution available
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2308-divide-array-into-equal-pairs) |
@@ -725,6 +728,7 @@ daily leetcode solution available
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -732,6 +736,7 @@ daily leetcode solution available
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
@@ -861,4 +866,8 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
