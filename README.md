@@ -323,6 +323,7 @@ daily leetcode solution available
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
