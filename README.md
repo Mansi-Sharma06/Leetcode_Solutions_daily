@@ -351,6 +351,7 @@ daily leetcode solution available
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -522,6 +523,7 @@ daily leetcode solution available
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
@@ -703,6 +705,7 @@ daily leetcode solution available
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
