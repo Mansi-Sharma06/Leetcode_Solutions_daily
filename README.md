@@ -18,6 +18,7 @@ daily leetcode solution available
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
@@ -486,6 +487,7 @@ daily leetcode solution available
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
@@ -739,6 +741,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
