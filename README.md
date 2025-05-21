@@ -18,6 +18,7 @@ daily leetcode solution available
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
@@ -189,6 +190,7 @@ daily leetcode solution available
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
@@ -299,6 +301,7 @@ daily leetcode solution available
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
