@@ -334,6 +334,7 @@ daily leetcode solution available
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
@@ -458,6 +459,7 @@ daily leetcode solution available
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2308-divide-array-into-equal-pairs) |
@@ -591,6 +593,7 @@ daily leetcode solution available
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
@@ -620,6 +623,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -951,6 +955,7 @@ daily leetcode solution available
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1001,6 +1006,7 @@ daily leetcode solution available
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
