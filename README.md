@@ -28,6 +28,7 @@ daily leetcode solution available
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
@@ -331,6 +332,7 @@ daily leetcode solution available
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
@@ -488,6 +490,7 @@ daily leetcode solution available
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -553,6 +556,7 @@ daily leetcode solution available
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
@@ -871,6 +875,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
