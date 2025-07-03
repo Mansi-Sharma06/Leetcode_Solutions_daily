@@ -252,6 +252,7 @@ daily leetcode solution available
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +288,7 @@ daily leetcode solution available
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
@@ -325,6 +327,7 @@ daily leetcode solution available
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -687,6 +690,7 @@ daily leetcode solution available
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
