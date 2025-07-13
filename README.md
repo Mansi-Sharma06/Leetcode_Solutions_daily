@@ -133,6 +133,7 @@ daily leetcode solution available
 | [2479-meeting-rooms-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -594,6 +595,7 @@ daily leetcode solution available
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2586-longest-square-streak-in-an-array) |
@@ -644,6 +646,7 @@ daily leetcode solution available
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -897,6 +900,7 @@ daily leetcode solution available
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
