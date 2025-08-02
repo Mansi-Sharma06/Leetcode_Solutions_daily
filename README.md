@@ -161,6 +161,7 @@ daily leetcode solution available
 | [2665-minimum-time-to-repair-cars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -416,6 +417,7 @@ daily leetcode solution available
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
@@ -627,6 +629,7 @@ daily leetcode solution available
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -677,6 +680,7 @@ daily leetcode solution available
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
