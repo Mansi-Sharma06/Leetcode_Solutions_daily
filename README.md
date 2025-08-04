@@ -44,6 +44,7 @@ daily leetcode solution available
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
@@ -372,6 +373,7 @@ daily leetcode solution available
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
@@ -960,6 +962,7 @@ daily leetcode solution available
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1813-maximum-erasure-value) |
