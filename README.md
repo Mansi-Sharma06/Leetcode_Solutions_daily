@@ -32,6 +32,7 @@ daily leetcode solution available
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
@@ -294,6 +295,7 @@ daily leetcode solution available
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
@@ -1070,6 +1072,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
