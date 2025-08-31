@@ -20,6 +20,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
@@ -247,6 +248,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
@@ -401,6 +403,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
@@ -1100,6 +1103,7 @@ daily leetcode solution available
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
