@@ -53,6 +53,7 @@ daily leetcode solution available
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
@@ -433,6 +434,7 @@ daily leetcode solution available
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -520,6 +522,7 @@ daily leetcode solution available
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
