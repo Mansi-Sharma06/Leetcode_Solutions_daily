@@ -14,7 +14,7 @@ class Solution {
             }
             stack.push(num);
         }
-        return stack;
+        return new ArrayList<>(stack);
     }
 
     private int gcd(int a, int b){
