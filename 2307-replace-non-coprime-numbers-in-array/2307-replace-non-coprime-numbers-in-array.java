@@ -1,18 +1,18 @@
 class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
-        List<Integer> stack = new ArrayList<>();
+        Stack<Integer> stack = new Stack<>();
 
         for(int num : nums){
             while(!stack.isEmpty()){
-                int top = stack.get(stack.size() - 1);
+                int top = stack.peek();
                 int gcd = gcd(top, num);
                 if(gcd == 1){
                     break;
                 }
-                stack.remove(stack.size() - 1);
+                stack.pop();
                 num = (top / gcd) * num; // LCM
             }
-            stack.add(num);
+            stack.push(num);
         }
         return stack;
     }
