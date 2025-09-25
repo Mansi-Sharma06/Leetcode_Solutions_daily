@@ -24,6 +24,7 @@ daily leetcode solution available
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
@@ -807,6 +808,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
