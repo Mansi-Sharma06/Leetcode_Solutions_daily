@@ -35,6 +35,7 @@ daily leetcode solution available
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -705,6 +706,7 @@ daily leetcode solution available
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
@@ -755,6 +757,7 @@ daily leetcode solution available
 | ------- |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
@@ -943,6 +946,7 @@ daily leetcode solution available
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1068,6 +1072,7 @@ daily leetcode solution available
 | [0165-compare-version-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0908-middle-of-the-linked-list) |
