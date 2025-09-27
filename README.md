@@ -44,6 +44,7 @@ daily leetcode solution available
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -335,6 +336,7 @@ daily leetcode solution available
 | [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1386,6 +1388,7 @@ daily leetcode solution available
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
