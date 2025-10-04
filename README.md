@@ -19,6 +19,7 @@ daily leetcode solution available
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
@@ -768,6 +769,7 @@ daily leetcode solution available
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
@@ -1081,6 +1083,7 @@ daily leetcode solution available
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
