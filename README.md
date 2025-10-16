@@ -186,6 +186,7 @@ daily leetcode solution available
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2685-first-completely-painted-row-or-column) |
@@ -383,6 +384,7 @@ daily leetcode solution available
 | [2448-count-number-of-bad-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -526,6 +528,7 @@ daily leetcode solution available
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
@@ -833,6 +836,7 @@ daily leetcode solution available
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
