@@ -16,6 +16,7 @@ daily leetcode solution available
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -250,6 +251,7 @@ daily leetcode solution available
 | [3483-alternating-groups-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -573,6 +575,7 @@ daily leetcode solution available
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
