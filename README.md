@@ -33,6 +33,7 @@ daily leetcode solution available
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
@@ -613,6 +614,7 @@ daily leetcode solution available
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
@@ -923,6 +925,7 @@ daily leetcode solution available
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0806-domino-and-tromino-tiling) |
