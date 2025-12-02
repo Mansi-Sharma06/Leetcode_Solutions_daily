@@ -276,6 +276,7 @@ daily leetcode solution available
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3639-zero-array-transformation-i) |
@@ -450,6 +451,7 @@ daily leetcode solution available
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
@@ -612,6 +614,7 @@ daily leetcode solution available
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1589,6 +1592,7 @@ daily leetcode solution available
 | [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 ## Game Theory
 |  |
 | ------- |
