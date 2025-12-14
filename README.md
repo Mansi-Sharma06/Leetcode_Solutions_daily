@@ -427,6 +427,7 @@ daily leetcode solution available
 | [1925-count-square-sum-triples](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -703,6 +704,7 @@ daily leetcode solution available
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1019,6 +1021,7 @@ daily leetcode solution available
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
