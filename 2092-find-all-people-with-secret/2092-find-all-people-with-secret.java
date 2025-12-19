@@ -1,49 +1,104 @@
 class Solution {
-    public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
-        // For every person, we store the meeting time and label of the person met.
-        Map<Integer, List<int[]>> graph = new HashMap<>();
+
+    public List<Integer> findAllPeople(
+        int n,
+        int[][] meetings,
+        int firstPerson
+    ) {
+        // Sort meetings in increasing order of time
+        Arrays.sort(meetings, (a, b) -> a[2] - b[2]);
+
+        // Group Meetings in increasing order of time
+        Map<Integer, List<int[]>> sameTimeMeetings = new TreeMap<>();
         for (int[] meeting : meetings) {
             int x = meeting[0], y = meeting[1], t = meeting[2];
-            graph.computeIfAbsent(x, k -> new ArrayList<>()).add(new int[]{t, y});
-            graph.computeIfAbsent(y, k -> new ArrayList<>()).add(new int[]{t, x});
+            sameTimeMeetings
+                .computeIfAbsent(t, k -> new ArrayList<>())
+                .add(new int[] { x, y });
         }
 
-        // Earliest time at which a person learned the secret 
-        // as per current state of knowledge. If due to some new information, 
-        // the earliest time of knowing the secret changes, we will update it
-        // and again process all the people whom he/she meets after the time
-        // at which he/she learned the secret.
-        int[] earliest = new int[n];
-        Arrays.fill(earliest, Integer.MAX_VALUE);
-        earliest[0] = 0;
-        earliest[firstPerson] = 0;
-        
-        // Queue for BFS. It will store (person, time of knowing the secret)
-        Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{0, 0});
-        q.offer(new int[]{firstPerson, 0});
+        // Create graph
+        UnionFind graph = new UnionFind(n);
+        graph.unite(firstPerson, 0);
 
-        // Do BFS
-        while (!q.isEmpty()) {
-            int[] personTime = q.poll();
-            int person = personTime[0], time = personTime[1];
-            for (int[] nextPersonTime : graph.getOrDefault(person, new ArrayList<>())) {
-                int t = nextPersonTime[0], nextPerson = nextPersonTime[1];
-                if (t >= time && earliest[nextPerson] > t) {
-                    earliest[nextPerson] = t;
-                    q.offer(new int[]{nextPerson, t});
+        // Process in increasing order of time
+        for (int t : sameTimeMeetings.keySet()) {
+            // Unite two persons taking part in a meeting
+            for (int[] meeting : sameTimeMeetings.get(t)) {
+                int x = meeting[0], y = meeting[1];
+                graph.unite(x, y);
+            }
+
+            // If any one knows the secret, both will be connected to 0.
+            // If no one knows the secret, then reset.
+            for (int[] meeting : sameTimeMeetings.get(t)) {
+                int x = meeting[0], y = meeting[1];
+                if (!graph.connected(x, 0)) {
+                    // No need to check for y since x and y were united
+                    graph.reset(x);
+                    graph.reset(y);
                 }
             }
         }
-        
-        // Since we visited only those people who know the secret,
-        // we need to return indices of all visited people.
+
+        // Al those who are connected to 0 will know the secret
         List<Integer> ans = new ArrayList<>();
         for (int i = 0; i < n; ++i) {
-            if (earliest[i] != Integer.MAX_VALUE) {
+            if (graph.connected(i, 0)) {
                 ans.add(i);
             }
         }
         return ans;
+    }
+}
+
+class UnionFind {
+
+    private int[] parent;
+    private int[] rank;
+
+    public UnionFind(int n) {
+        // Initialize parent and rank arrays
+        parent = new int[n];
+        rank = new int[n];
+        for (int i = 0; i < n; ++i) {
+            parent[i] = i;
+        }
+    }
+
+    public int find(int x) {
+        // Find parent of node x. Use Path Compression
+        if (parent[x] != x) {
+            parent[x] = find(parent[x]);
+        }
+        return parent[x];
+    }
+
+    public void unite(int x, int y) {
+        // Unite two nodes x and y, if they are not already united
+        int px = find(x);
+        int py = find(y);
+        if (px != py) {
+            // Union by Rank Heuristic
+            if (rank[px] > rank[py]) {
+                parent[py] = px;
+            } else if (rank[px] < rank[py]) {
+                parent[px] = py;
+            } else {
+                parent[py] = px;
+                rank[px] += 1;
+            }
+        }
+    }
+
+    public boolean connected(int x, int y) {
+        // Check if two nodes x and y are connected or not
+        return find(x) == find(y);
+    }
+
+    public void reset(int x) {
+        // Reset the initial properties of node x
+        parent[x] = x;
+        rank[x] = 0;
     }
 }
