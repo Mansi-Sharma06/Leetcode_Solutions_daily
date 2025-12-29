@@ -510,6 +510,7 @@ daily leetcode solution available
 | ------- |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
@@ -557,6 +558,7 @@ daily leetcode solution available
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
@@ -678,6 +680,7 @@ daily leetcode solution available
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
@@ -1452,6 +1455,7 @@ daily leetcode solution available
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
