@@ -1,57 +1,69 @@
 class Solution {
-  public int latestDayToCross(int row, int col, int[][] cells) {
-    int ans = 0;
-    int l = 1;
-    int r = cells.length - 1;
+    public int latestDayToCross(int row, int col, int[][] cells) {
+        DSU dsu = new DSU(row * col + 2);
+        int[][] grid = new int[row][col];
+        int[][] dirs = { { 0, 1 }, { 0, -1 }, { 1, 0 }, { -1, 0 } };
 
-    while (l <= r) {
-      final int m = (l + r) / 2;
-      if (canWalk(m, row, col, cells)) {
-        ans = m;
-        l = m + 1;
-      } else {
-        r = m - 1;
-      }
+        for (int i = cells.length - 1; i >= 0; i--) {
+            int r = cells[i][0] - 1;
+            int c = cells[i][1] - 1;
+            grid[r][c] = 1;
+
+            int id1 = r * col + c + 1;
+
+            for (int[] d : dirs) {
+                int nr = r + d[0];
+                int nc = c + d[1];
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col && grid[nr][nc] == 1)
+                    dsu.union(id1, nr * col + nc + 1);
+            }
+
+            if (r == 0)
+                dsu.union(0, id1);
+
+            if (r == row - 1)
+                dsu.union(row * col + 1, id1);
+
+            if (dsu.find(0) == dsu.find(row * col + 1))
+                return i;
+        }
+
+        return -1;
+    }
+}
+
+class DSU {
+    int[] root;
+    int[] size;
+
+    DSU(int n) {
+        root = new int[n];
+        size = new int[n];
+        for (int i = 0; i < n; i++)
+            root[i] = i;
+        Arrays.fill(size, 1);
     }
 
-    return ans;
-  }
-
-  private static final int[] dirs = {0, 1, 0, -1, 0};
-
-  private boolean canWalk(int day, int row, int col, int[][] cells) {
-    int[][] matrix = new int[row][col];
-    for (int i = 0; i < day; ++i) {
-      final int x = cells[i][0] - 1;
-      final int y = cells[i][1] - 1;
-      matrix[x][y] = 1;
+    int find(int x) {
+        if (root[x] != x)
+            root[x] = find(root[x]);
+        return root[x];
     }
 
-    Queue<int[]> q = new ArrayDeque<>();
+    void union(int x, int y) {
+        int rx = find(x);
+        int ry = find(y);
 
-    for (int j = 0; j < col; ++j)
-      if (matrix[0][j] == 0) {
-        q.offer(new int[] {0, j});
-        matrix[0][j] = 1;
-      }
+        if (rx == ry)
+            return;
 
-    while (!q.isEmpty()) {
-      final int i = q.peek()[0];
-      final int j = q.poll()[1];
-      for (int k = 0; k < 4; ++k) {
-        final int x = i + dirs[k];
-        final int y = j + dirs[k + 1];
-        if (x < 0 || x == row || y < 0 || y == col)
-          continue;
-        if (matrix[x][y] == 1)
-          continue;
-        if (x == row - 1)
-          return true;
-        q.offer(new int[] {x, y});
-        matrix[x][y] = 1;
-      }
+        if (size[rx] > size[ry]) {
+            int tmp = rx;
+            rx = ry;
+            ry = tmp;
+        }
+
+        root[rx] = ry;
+        size[ry] += size[rx];
     }
-
-    return false;
-  }
 }
