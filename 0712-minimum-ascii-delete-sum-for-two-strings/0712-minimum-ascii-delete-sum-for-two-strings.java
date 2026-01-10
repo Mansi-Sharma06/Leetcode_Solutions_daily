@@ -1,25 +1,21 @@
 class Solution {
-  public int minimumDeleteSum(String s1, String s2) {
-    final int m = s1.length();
-    final int n = s2.length();
-    // dp[i][j] := min cost to make s1[0..i) and s2[0..j) equal
-    int[][] dp = new int[m + 1][n + 1];
+    public int minimumDeleteSum(String s1, String s2) {
+        int n = s1.length(), m = s2.length();
+        int[][] dp = new int[n + 1][m + 1];
 
-    // Delete s1.charAt(i - 1)
-    for (int i = 1; i <= m; ++i)
-      dp[i][0] = dp[i - 1][0] + s1.charAt(i - 1);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (s1.charAt(i) == s2.charAt(j))
+                    dp[i + 1][j + 1] = dp[i][j] + s1.charAt(i);
+                else
+                    dp[i + 1][j + 1] = Math.max(dp[i][j + 1], dp[i + 1][j]);
+            }
+        }
 
-    // Delete s2.charAt(j - 1)
-    for (int j = 1; j <= n; ++j)
-      dp[0][j] = dp[0][j - 1] + s2.charAt(j - 1);
+        int total = 0;
+        for (char c : s1.toCharArray()) total += c;
+        for (char c : s2.toCharArray()) total += c;
 
-    for (int i = 1; i <= m; ++i)
-      for (int j = 1; j <= n; ++j)
-        if (s1.charAt(i - 1) == s2.charAt(j - 1))
-          dp[i][j] = dp[i - 1][j - 1];
-        else
-          dp[i][j] = Math.min(dp[i - 1][j] + s1.charAt(i - 1), dp[i][j - 1] + s2.charAt(j - 1));
-
-    return dp[m][n];
-  }
+        return total - 2 * dp[n][m];
+    }
 }
