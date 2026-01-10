@@ -696,6 +696,7 @@ daily leetcode solution available
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
@@ -1045,6 +1046,7 @@ daily leetcode solution available
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
