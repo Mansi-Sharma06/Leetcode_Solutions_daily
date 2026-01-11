@@ -26,6 +26,7 @@ daily leetcode solution available
 | [0066-plus-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
@@ -337,6 +338,7 @@ daily leetcode solution available
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
@@ -1038,6 +1040,7 @@ daily leetcode solution available
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1314,6 +1317,7 @@ daily leetcode solution available
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1422,6 +1426,7 @@ daily leetcode solution available
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
