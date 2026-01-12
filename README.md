@@ -80,6 +80,7 @@ daily leetcode solution available
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -438,6 +439,7 @@ daily leetcode solution available
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1720,6 +1722,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
