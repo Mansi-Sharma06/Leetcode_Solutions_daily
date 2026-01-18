@@ -129,6 +129,7 @@ daily leetcode solution available
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -360,6 +361,7 @@ daily leetcode solution available
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
@@ -863,6 +865,7 @@ daily leetcode solution available
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2145-grid-game) |
