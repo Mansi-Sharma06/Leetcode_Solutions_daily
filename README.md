@@ -1525,6 +1525,7 @@ daily leetcode solution available
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
@@ -1698,6 +1699,7 @@ daily leetcode solution available
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1787,4 +1789,8 @@ daily leetcode solution available
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
