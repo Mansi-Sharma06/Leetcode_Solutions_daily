@@ -328,6 +328,7 @@ daily leetcode solution available
 | [3643-zero-array-transformation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -395,6 +396,7 @@ daily leetcode solution available
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
@@ -1145,6 +1147,7 @@ daily leetcode solution available
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
