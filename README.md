@@ -50,6 +50,7 @@ daily leetcode solution available
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0787-sliding-puzzle) |
@@ -1254,6 +1255,7 @@ daily leetcode solution available
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
