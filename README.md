@@ -414,6 +414,7 @@ daily leetcode solution available
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
@@ -456,6 +457,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
@@ -560,6 +562,7 @@ daily leetcode solution available
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
@@ -736,6 +739,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
