@@ -563,6 +563,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
@@ -1800,6 +1801,7 @@ daily leetcode solution available
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
