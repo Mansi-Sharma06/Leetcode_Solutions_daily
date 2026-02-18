@@ -567,6 +567,7 @@ daily leetcode solution available
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1071-binary-prefix-divisible-by-5) |
