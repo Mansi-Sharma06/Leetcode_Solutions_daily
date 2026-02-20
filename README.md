@@ -755,6 +755,7 @@ daily leetcode solution available
 | [0696-count-binary-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
@@ -971,6 +972,7 @@ daily leetcode solution available
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
@@ -1807,6 +1809,7 @@ daily leetcode solution available
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
