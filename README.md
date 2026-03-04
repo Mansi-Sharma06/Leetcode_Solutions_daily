@@ -4,8 +4,8 @@ daily leetcode solution available
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
@@ -20,8 +20,8 @@ daily leetcode solution available
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
@@ -111,6 +111,7 @@ daily leetcode solution available
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -363,8 +364,8 @@ daily leetcode solution available
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
@@ -383,6 +384,7 @@ daily leetcode solution available
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
@@ -413,8 +415,8 @@ daily leetcode solution available
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
@@ -456,8 +458,8 @@ daily leetcode solution available
 | [3790-fruits-into-baskets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0066-plus-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0166-fraction-to-recurring-decimal) |
@@ -552,8 +554,8 @@ daily leetcode solution available
 | [3830-find-closest-person](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2610-closest-prime-numbers-in-range) |
@@ -563,8 +565,8 @@ daily leetcode solution available
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
@@ -615,8 +617,8 @@ daily leetcode solution available
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
@@ -748,8 +750,8 @@ daily leetcode solution available
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0038-count-and-say](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0165-compare-version-numbers) |
@@ -878,8 +880,8 @@ daily leetcode solution available
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -917,8 +919,8 @@ daily leetcode solution available
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -966,16 +968,16 @@ daily leetcode solution available
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
@@ -1054,8 +1056,8 @@ daily leetcode solution available
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
@@ -1127,8 +1129,8 @@ daily leetcode solution available
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
@@ -1207,8 +1209,8 @@ daily leetcode solution available
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1220,8 +1222,8 @@ daily leetcode solution available
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1229,14 +1231,14 @@ daily leetcode solution available
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
@@ -1244,15 +1246,15 @@ daily leetcode solution available
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1293,8 +1295,8 @@ daily leetcode solution available
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1305,8 +1307,8 @@ daily leetcode solution available
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
@@ -1359,8 +1361,8 @@ daily leetcode solution available
 | [3791-fruits-into-baskets-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
@@ -1377,8 +1379,8 @@ daily leetcode solution available
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1390,8 +1392,8 @@ daily leetcode solution available
 | [3790-fruits-into-baskets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
@@ -1407,8 +1409,8 @@ daily leetcode solution available
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1420,14 +1422,14 @@ daily leetcode solution available
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1456,8 +1458,8 @@ daily leetcode solution available
 | [3447-clear-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
@@ -1496,8 +1498,8 @@ daily leetcode solution available
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1541,8 +1543,8 @@ daily leetcode solution available
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1555,8 +1557,8 @@ daily leetcode solution available
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0794-swim-in-rising-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0794-swim-in-rising-water) |
@@ -1602,8 +1604,8 @@ daily leetcode solution available
 | [3678-design-task-manager](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
@@ -1621,8 +1623,8 @@ daily leetcode solution available
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1649,8 +1651,8 @@ daily leetcode solution available
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1677,8 +1679,8 @@ daily leetcode solution available
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1718,8 +1720,8 @@ daily leetcode solution available
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1738,16 +1740,16 @@ daily leetcode solution available
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2868-continuous-subarrays) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1773,8 +1775,8 @@ daily leetcode solution available
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1785,17 +1787,17 @@ daily leetcode solution available
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0684-redundant-connection](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
@@ -1811,8 +1813,8 @@ daily leetcode solution available
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1820,12 +1822,12 @@ daily leetcode solution available
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1477-product-of-the-last-k-numbers) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1834,8 +1836,8 @@ daily leetcode solution available
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1847,17 +1849,17 @@ daily leetcode solution available
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 ## Probability and Statistics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0826-soup-servings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -1866,26 +1868,26 @@ daily leetcode solution available
 | [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Line Sweep
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
