@@ -1131,6 +1131,7 @@ daily leetcode solution available
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1365,6 +1366,7 @@ daily leetcode solution available
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1899,9 +1901,18 @@ daily leetcode solution available
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
