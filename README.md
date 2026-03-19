@@ -272,6 +272,7 @@ daily leetcode solution available
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -412,6 +413,7 @@ daily leetcode solution available
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -969,6 +971,7 @@ daily leetcode solution available
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
