@@ -113,6 +113,7 @@ daily leetcode solution available
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -394,6 +395,7 @@ daily leetcode solution available
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
@@ -1195,6 +1197,7 @@ daily leetcode solution available
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
