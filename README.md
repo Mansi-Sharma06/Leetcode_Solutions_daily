@@ -739,6 +739,7 @@ daily leetcode solution available
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2915-count-of-interesting-subarrays) |
@@ -883,6 +884,7 @@ daily leetcode solution available
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1080,6 +1082,7 @@ daily leetcode solution available
 | [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
