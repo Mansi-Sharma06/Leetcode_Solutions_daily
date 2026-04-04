@@ -457,6 +457,7 @@ daily leetcode solution available
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2211-count-collisions-on-a-road) |
@@ -857,6 +858,7 @@ daily leetcode solution available
 | [1980-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
