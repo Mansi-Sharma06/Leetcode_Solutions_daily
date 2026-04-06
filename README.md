@@ -60,6 +60,7 @@ daily leetcode solution available
 | [0840-magic-squares-in-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -452,6 +453,7 @@ daily leetcode solution available
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
@@ -674,6 +676,7 @@ daily leetcode solution available
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
