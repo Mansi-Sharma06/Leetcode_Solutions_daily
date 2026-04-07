@@ -460,6 +460,7 @@ daily leetcode solution available
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2169-simple-bank-system) |
@@ -1458,6 +1459,7 @@ daily leetcode solution available
 | [1622-fancy-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1622-fancy-sequence/) | Hard |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2169-simple-bank-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2434-design-a-number-container-system) |
