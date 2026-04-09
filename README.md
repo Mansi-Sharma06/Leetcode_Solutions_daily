@@ -361,6 +361,7 @@ daily leetcode solution available
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -1934,6 +1935,7 @@ daily leetcode solution available
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Combinatorics
