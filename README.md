@@ -208,6 +208,7 @@ daily leetcode solution available
 | [2429-design-a-food-rating-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2448-count-number-of-bad-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-shifting-letters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2478-longest-nice-subarray) |
@@ -1090,6 +1091,7 @@ daily leetcode solution available
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1269,6 +1271,7 @@ daily leetcode solution available
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
