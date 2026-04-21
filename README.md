@@ -125,6 +125,7 @@ daily leetcode solution available
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1755-defuse-the-bomb) |
@@ -1382,6 +1383,7 @@ daily leetcode solution available
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
@@ -2021,6 +2023,7 @@ daily leetcode solution available
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
