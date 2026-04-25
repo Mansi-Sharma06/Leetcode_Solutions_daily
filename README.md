@@ -322,6 +322,7 @@ daily leetcode solution available
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3483-alternating-groups-ii) |
@@ -592,6 +593,7 @@ daily leetcode solution available
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1145,6 +1147,7 @@ daily leetcode solution available
 | [3430-count-days-without-meetings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3531-count-covered-buildings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
@@ -1472,6 +1475,7 @@ daily leetcode solution available
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -2002,6 +2006,7 @@ daily leetcode solution available
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Game Theory
