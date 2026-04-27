@@ -96,6 +96,7 @@ daily leetcode solution available
 | [1364-tuple-with-same-product](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -416,6 +417,7 @@ daily leetcode solution available
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1393,6 +1395,7 @@ daily leetcode solution available
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1558-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1836,6 +1839,7 @@ daily leetcode solution available
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2040,6 +2044,7 @@ daily leetcode solution available
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
