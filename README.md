@@ -160,6 +160,7 @@ daily leetcode solution available
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-two-best-non-overlapping-events) |
@@ -433,6 +434,7 @@ daily leetcode solution available
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -559,6 +561,7 @@ daily leetcode solution available
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1103,6 +1106,7 @@ daily leetcode solution available
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
