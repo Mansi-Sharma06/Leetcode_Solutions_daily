@@ -293,6 +293,7 @@ daily leetcode solution available
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -453,6 +454,7 @@ daily leetcode solution available
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1048,6 +1050,7 @@ daily leetcode solution available
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1314,6 +1317,7 @@ daily leetcode solution available
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
