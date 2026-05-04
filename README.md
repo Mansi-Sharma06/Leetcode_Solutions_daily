@@ -25,6 +25,7 @@ daily leetcode solution available
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
@@ -408,6 +409,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
@@ -526,6 +528,7 @@ daily leetcode solution available
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0166-fraction-to-recurring-decimal) |
