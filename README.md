@@ -7,6 +7,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0432-all-oone-data-structure) |
@@ -1619,6 +1620,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0165-compare-version-numbers) |
