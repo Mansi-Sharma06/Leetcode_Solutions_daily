@@ -143,6 +143,7 @@ daily leetcode solution available
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -433,6 +434,7 @@ daily leetcode solution available
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1861-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -1636,6 +1638,7 @@ daily leetcode solution available
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
