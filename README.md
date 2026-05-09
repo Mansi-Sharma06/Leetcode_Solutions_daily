@@ -152,6 +152,7 @@ daily leetcode solution available
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -441,6 +442,7 @@ daily leetcode solution available
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
@@ -491,6 +493,7 @@ daily leetcode solution available
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
