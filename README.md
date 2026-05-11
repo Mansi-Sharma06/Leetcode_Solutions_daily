@@ -237,6 +237,7 @@ daily leetcode solution available
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -514,6 +515,7 @@ daily leetcode solution available
 | [2411-spiral-matrix-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2751-robot-collisions/) | Hard |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
