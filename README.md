@@ -128,6 +128,7 @@ daily leetcode solution available
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -755,6 +756,7 @@ daily leetcode solution available
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1049,6 +1051,7 @@ daily leetcode solution available
 | [1477-product-of-the-last-k-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
