@@ -35,6 +35,7 @@ daily leetcode solution available
 | [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0396-rotate-function/) | Medium |
@@ -1483,6 +1484,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
