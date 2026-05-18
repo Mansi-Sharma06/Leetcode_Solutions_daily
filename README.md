@@ -95,6 +95,7 @@ daily leetcode solution available
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -748,6 +749,7 @@ daily leetcode solution available
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1893,6 +1895,7 @@ daily leetcode solution available
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
