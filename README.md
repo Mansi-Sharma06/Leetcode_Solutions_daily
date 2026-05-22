@@ -24,6 +24,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0048-rotate-image/) | Medium |
@@ -1496,6 +1497,7 @@ daily leetcode solution available
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
