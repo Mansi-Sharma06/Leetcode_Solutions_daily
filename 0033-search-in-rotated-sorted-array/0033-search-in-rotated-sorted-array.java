@@ -1,25 +1,29 @@
 class Solution {
-  public int search(int[] nums, int target) {
-    int l = 0;
-    int r = nums.length - 1;
+    public int search(int[] nums, int target) {
+        int n = nums.length;
+        int lo = 0, hi = n - 1;
 
-    while (l <= r) {
-      final int m = (l + r) / 2;
-      if (nums[m] == target)
-        return m;
-      if (nums[l] <= nums[m]) { // nums[l..m] are sorted
-        if (nums[l] <= target && target < nums[m])
-          r = m - 1;
-        else
-          l = m + 1;
-      } else { // nums[m..n - 1] are sorted
-        if (nums[m] < target && target <= nums[r])
-          l = m + 1;
-        else
-          r = m - 1;
-      }
+        while (lo < hi) {
+            int mid = (lo + hi) / 2;
+            
+            if (nums[mid] > nums[n - 1]) lo = mid + 1;
+            else hi = mid;
+        }
+
+        int rot = lo;
+        lo = 0; hi = n - 1;
+
+        while (lo <= hi) {
+            int mid = (lo + hi) / 2;
+            int real = (mid + rot) % n;
+
+            if (nums[real] == target)
+                return real;
+            
+            if (nums[real] < target) lo = mid + 1;
+            else hi = mid - 1;
+        }
+
+        return -1;
     }
-
-    return -1;
-  }
 }
