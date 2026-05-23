@@ -140,6 +140,7 @@ daily leetcode solution available
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1755-defuse-the-bomb](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
