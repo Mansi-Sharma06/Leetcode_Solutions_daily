@@ -96,6 +96,7 @@ daily leetcode solution available
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1144,6 +1145,7 @@ daily leetcode solution available
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
+| [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1325,6 +1327,7 @@ daily leetcode solution available
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
