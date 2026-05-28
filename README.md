@@ -303,6 +303,7 @@ daily leetcode solution available
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -986,6 +987,7 @@ daily leetcode solution available
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1503,6 +1505,7 @@ daily leetcode solution available
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
