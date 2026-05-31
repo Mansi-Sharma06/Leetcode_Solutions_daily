@@ -183,6 +183,7 @@ daily leetcode solution available
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2145-grid-game) |
@@ -1170,6 +1171,7 @@ daily leetcode solution available
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1267,6 +1269,7 @@ daily leetcode solution available
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
