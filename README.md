@@ -253,6 +253,7 @@ daily leetcode solution available
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1102,6 +1103,7 @@ daily leetcode solution available
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2625-increment-submatrices-by-one) |
