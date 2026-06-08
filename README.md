@@ -190,6 +190,7 @@ daily leetcode solution available
 | [2145-grid-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -523,6 +524,7 @@ daily leetcode solution available
 | [2069-walking-robot-simulation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
@@ -1726,6 +1728,7 @@ daily leetcode solution available
 | [1923-sentence-similarity-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2271-rearrange-array-elements-by-sign) |
