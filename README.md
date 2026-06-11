@@ -652,6 +652,7 @@ daily leetcode solution available
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1518,6 +1519,7 @@ daily leetcode solution available
 | [2793-count-the-number-of-complete-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1944,6 +1946,7 @@ daily leetcode solution available
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
