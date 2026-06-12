@@ -370,6 +370,7 @@ daily leetcode solution available
 | [3546-equal-sum-grid-partition-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -653,6 +654,7 @@ daily leetcode solution available
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -735,6 +737,7 @@ daily leetcode solution available
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1415,6 +1418,7 @@ daily leetcode solution available
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1520,6 +1524,7 @@ daily leetcode solution available
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1947,6 +1952,7 @@ daily leetcode solution available
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
