@@ -596,6 +596,7 @@ daily leetcode solution available
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1390-four-divisors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
