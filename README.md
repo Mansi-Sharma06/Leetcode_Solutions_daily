@@ -150,6 +150,7 @@ daily leetcode solution available
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -1195,6 +1196,7 @@ daily leetcode solution available
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1297,6 +1299,7 @@ daily leetcode solution available
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1917-maximum-average-pass-ratio) |
@@ -2209,4 +2212,8 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
