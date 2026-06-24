@@ -678,6 +678,7 @@ daily leetcode solution available
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -1454,6 +1455,7 @@ daily leetcode solution available
 | [3660-jump-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
