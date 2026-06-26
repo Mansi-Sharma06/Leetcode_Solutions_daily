@@ -424,6 +424,7 @@ daily leetcode solution available
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -899,6 +900,7 @@ daily leetcode solution available
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1168,6 +1170,7 @@ daily leetcode solution available
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1674,6 +1677,7 @@ daily leetcode solution available
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3791-fruits-into-baskets-iii) |
@@ -2156,6 +2160,7 @@ daily leetcode solution available
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2174,6 +2179,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
