@@ -308,6 +308,7 @@ daily leetcode solution available
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -861,6 +862,7 @@ daily leetcode solution available
 | [2915-count-of-interesting-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -1948,6 +1950,7 @@ daily leetcode solution available
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
