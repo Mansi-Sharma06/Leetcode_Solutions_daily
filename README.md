@@ -153,6 +153,7 @@ daily leetcode solution available
 | [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1212,6 +1213,7 @@ daily leetcode solution available
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1315,6 +1317,7 @@ daily leetcode solution available
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
