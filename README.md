@@ -1562,6 +1562,7 @@ daily leetcode solution available
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -2044,6 +2045,7 @@ daily leetcode solution available
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -2239,6 +2241,7 @@ daily leetcode solution available
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -2255,6 +2258,7 @@ daily leetcode solution available
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
