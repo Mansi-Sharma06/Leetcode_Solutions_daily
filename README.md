@@ -96,6 +96,7 @@ daily leetcode solution available
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
@@ -469,6 +470,7 @@ daily leetcode solution available
 | [0945-snakes-and-ladders](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
@@ -1407,6 +1409,7 @@ daily leetcode solution available
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
