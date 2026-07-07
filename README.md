@@ -94,6 +94,7 @@ daily leetcode solution available
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -1214,6 +1215,7 @@ daily leetcode solution available
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
