@@ -99,6 +99,7 @@ daily leetcode solution available
 | [1293-three-consecutive-odds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
@@ -807,6 +808,7 @@ daily leetcode solution available
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -1223,6 +1225,7 @@ daily leetcode solution available
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
