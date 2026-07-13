@@ -1,19 +1,27 @@
 class Solution {
-  public List<Integer> sequentialDigits(int low, int high) {
-    List<Integer> ans = new ArrayList<>();
-    Queue<Integer> q = new ArrayDeque<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9));
+    static final int[] q = new int[45];
 
-    while (!q.isEmpty()) {
-      final int num = q.poll();
-      if (num > high)
-        return ans;
-      if (low <= num && num <= high)
-        ans.add(num);
-      final int lastDigit = num % 10;
-      if (lastDigit < 9)
-        q.offer(num * 10 + lastDigit + 1);
+    static {
+        int n = 0;
+
+        for (int i = 1; i < 10; i++)
+            q[n++] = i;
+
+        for (int i = 0; i < n; i++) {
+            int d = q[i] % 10;
+
+            if (d < 9) 
+                q[n++] = q[i] * 10 + d + 1;
+        }
     }
 
-    return ans;
-  }
+    public List<Integer> sequentialDigits(int low, int high) {
+        List<Integer> res = new ArrayList<>();
+
+        for (int x : q)
+            if (x >= low && x <= high)
+                res.add(x);
+
+        return res;
+    }
 }
