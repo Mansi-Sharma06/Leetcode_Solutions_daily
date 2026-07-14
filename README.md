@@ -350,6 +350,7 @@ daily leetcode solution available
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3379-transformed-array) |
@@ -673,6 +674,7 @@ daily leetcode solution available
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
@@ -716,6 +718,7 @@ daily leetcode solution available
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
@@ -1476,6 +1479,7 @@ daily leetcode solution available
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
