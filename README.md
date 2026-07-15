@@ -694,6 +694,7 @@ daily leetcode solution available
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -720,6 +721,7 @@ daily leetcode solution available
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
