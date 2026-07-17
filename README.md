@@ -345,6 +345,7 @@ daily leetcode solution available
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
@@ -674,6 +675,7 @@ daily leetcode solution available
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -722,6 +724,7 @@ daily leetcode solution available
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -896,6 +899,7 @@ daily leetcode solution available
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1129,6 +1133,7 @@ daily leetcode solution available
 | [2833-furthest-point-from-origin](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1182,6 +1187,7 @@ daily leetcode solution available
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1674,6 +1680,7 @@ daily leetcode solution available
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3453-separate-squares-i) |
@@ -2234,6 +2241,7 @@ daily leetcode solution available
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3637-count-number-of-balanced-permutations) |
