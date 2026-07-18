@@ -179,6 +179,7 @@ daily leetcode solution available
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -639,6 +640,7 @@ daily leetcode solution available
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
@@ -717,6 +719,7 @@ daily leetcode solution available
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2610-closest-prime-numbers-in-range) |
