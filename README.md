@@ -980,6 +980,7 @@ daily leetcode solution available
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
@@ -1345,6 +1346,7 @@ daily leetcode solution available
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1304-longest-happy-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1787,6 +1789,7 @@ daily leetcode solution available
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1917,6 +1920,7 @@ daily leetcode solution available
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
