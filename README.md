@@ -93,6 +93,7 @@ daily leetcode solution available
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -477,6 +478,7 @@ daily leetcode solution available
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -544,6 +546,7 @@ daily leetcode solution available
 | [0657-robot-return-to-origin](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
