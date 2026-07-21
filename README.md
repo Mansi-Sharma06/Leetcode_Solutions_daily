@@ -1090,6 +1090,7 @@ daily leetcode solution available
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -2029,6 +2030,7 @@ daily leetcode solution available
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
