@@ -379,6 +379,7 @@ daily leetcode solution available
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1091,6 +1092,7 @@ daily leetcode solution available
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -1696,6 +1698,7 @@ daily leetcode solution available
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -1740,6 +1743,7 @@ daily leetcode solution available
 | [3161-block-placement-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
