@@ -694,6 +694,7 @@ daily leetcode solution available
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1328,6 +1329,7 @@ daily leetcode solution available
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3531-count-covered-buildings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
