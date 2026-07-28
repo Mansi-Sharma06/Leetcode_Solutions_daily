@@ -1103,6 +1103,7 @@ daily leetcode solution available
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -1332,6 +1333,7 @@ daily leetcode solution available
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -2351,4 +2353,5 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
