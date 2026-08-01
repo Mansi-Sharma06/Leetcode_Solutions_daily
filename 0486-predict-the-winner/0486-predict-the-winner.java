@@ -1,15 +1,22 @@
 class Solution {
-  public boolean PredictTheWinner(int[] nums) {
-    final int n = nums.length;
-    int[] dp = nums.clone();
+    public boolean predictTheWinner(int[] A) {
+        int n = A.length;
+        if ((n & 1) == 0) return true;
 
-    for (int d = 1; d < n; ++d)
-      for (int j = n - 1; j - d >= 0; --j) {
-        final int i = j - d;
-        dp[j] = Math.max(nums[i] - dp[j],      // Pick left num
-                         nums[j] - dp[j - 1]); // Pick right num
-      }
+        int[][] dp = new int[n][n];
+        for (int[] r : dp) 
+            Arrays.fill(r, -1);
+        
+        return maxDiff(0, n - 1, A, dp) >= 0;
+    }
 
-    return dp[n - 1] >= 0;
-  }
+    private int maxDiff(int i, int j, int[] A, int[][] dp) {
+        if (dp[i][j] != -1) return dp[i][j];        
+        if (i == j) return dp[i][j] = A[i];
+        
+        return dp[i][j] = Math.max(
+            A[i] - maxDiff(i + 1, j, A, dp),
+            A[j] - maxDiff(i, j - 1, A, dp)
+        );
+    }
 }
