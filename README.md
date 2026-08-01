@@ -46,6 +46,7 @@ daily leetcode solution available
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
@@ -614,6 +615,7 @@ daily leetcode solution available
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
@@ -1462,6 +1464,7 @@ daily leetcode solution available
 | [0396-rotate-function](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1565,6 +1568,7 @@ daily leetcode solution available
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
@@ -2319,6 +2323,7 @@ daily leetcode solution available
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 | Problem Name | Difficulty |
