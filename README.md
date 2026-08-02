@@ -71,6 +71,7 @@ daily leetcode solution available
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0859-design-circular-deque) |
 | [0874-walking-robot-simulation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -627,6 +628,7 @@ daily leetcode solution available
 | [0830-largest-triangle-area](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -1474,6 +1476,7 @@ daily leetcode solution available
 | [0826-soup-servings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -2324,6 +2327,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 | Problem Name | Difficulty |
