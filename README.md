@@ -117,6 +117,7 @@ daily leetcode solution available
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -635,6 +636,7 @@ daily leetcode solution available
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1390-four-divisors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1489,6 +1491,7 @@ daily leetcode solution available
 | [1340-jump-game-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1340-jump-game-v/) | Hard |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -2328,6 +2331,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -2376,4 +2380,12 @@ daily leetcode solution available
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
