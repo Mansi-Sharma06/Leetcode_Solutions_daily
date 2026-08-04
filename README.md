@@ -445,6 +445,7 @@ daily leetcode solution available
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -960,6 +961,7 @@ daily leetcode solution available
 | [3714-longest-balanced-substring-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -1364,6 +1366,7 @@ daily leetcode solution available
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
