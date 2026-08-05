@@ -1658,6 +1658,7 @@ daily leetcode solution available
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -2161,6 +2162,7 @@ daily leetcode solution available
 | [2793-count-the-number-of-complete-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -2353,6 +2355,7 @@ daily leetcode solution available
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
