@@ -699,6 +699,7 @@ daily leetcode solution available
 | [3336-water-bottles-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
@@ -751,6 +752,7 @@ daily leetcode solution available
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1107,6 +1109,7 @@ daily leetcode solution available
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1446,6 +1449,7 @@ daily leetcode solution available
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -2053,6 +2057,7 @@ daily leetcode solution available
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
