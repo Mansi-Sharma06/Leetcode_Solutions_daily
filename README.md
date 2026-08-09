@@ -92,6 +92,7 @@ daily leetcode solution available
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -634,6 +635,7 @@ daily leetcode solution available
 | [0900-reordered-power-of-2](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1390-four-divisors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1390-four-divisors) |
@@ -1193,6 +1195,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1493,6 +1496,7 @@ daily leetcode solution available
 | [1025-minimum-cost-for-tickets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -2343,6 +2347,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -2396,9 +2401,11 @@ daily leetcode solution available
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
