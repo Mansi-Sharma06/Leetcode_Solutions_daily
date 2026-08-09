@@ -1109,6 +1109,7 @@ daily leetcode solution available
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -1451,6 +1452,7 @@ daily leetcode solution available
 | [3195-separate-black-and-white-balls](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1550,6 +1552,7 @@ daily leetcode solution available
 | [3225-maximum-score-from-grid-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -1916,6 +1919,7 @@ daily leetcode solution available
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
