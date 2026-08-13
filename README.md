@@ -217,6 +217,7 @@ daily leetcode solution available
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1067,6 +1068,7 @@ daily leetcode solution available
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2232-adding-spaces-to-a-string) |
@@ -1799,6 +1801,7 @@ daily leetcode solution available
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1818,6 +1821,7 @@ daily leetcode solution available
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2434-design-a-number-container-system) |
