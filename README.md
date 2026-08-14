@@ -932,6 +932,7 @@ daily leetcode solution available
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -1105,6 +1106,7 @@ daily leetcode solution available
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -1970,6 +1972,7 @@ daily leetcode solution available
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
