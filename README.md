@@ -192,6 +192,7 @@ daily leetcode solution available
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -665,6 +666,7 @@ daily leetcode solution available
 | [1925-count-square-sum-triples](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-count-good-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1175,6 +1177,7 @@ daily leetcode solution available
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1427,6 +1430,7 @@ daily leetcode solution available
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -2371,6 +2375,7 @@ daily leetcode solution available
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -2426,16 +2431,19 @@ daily leetcode solution available
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
