@@ -170,6 +170,7 @@ daily leetcode solution available
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1876-map-of-highest-peak](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -666,6 +667,7 @@ daily leetcode solution available
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1925-count-square-sum-triples) |
@@ -1233,6 +1235,7 @@ daily leetcode solution available
 | [1694-make-sum-divisible-by-p](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1895-largest-magic-square) |
@@ -1551,6 +1554,7 @@ daily leetcode solution available
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2390,6 +2394,7 @@ daily leetcode solution available
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -2446,6 +2451,7 @@ daily leetcode solution available
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -2453,6 +2459,7 @@ daily leetcode solution available
 | [1140-stone-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
