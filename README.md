@@ -454,6 +454,7 @@ daily leetcode solution available
 | [3689-maximum-total-subarray-value-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
@@ -990,6 +991,7 @@ daily leetcode solution available
 | [3678-design-task-manager](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
