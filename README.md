@@ -993,6 +993,7 @@ daily leetcode solution available
 | [3714-longest-balanced-substring-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1170,6 +1171,7 @@ daily leetcode solution available
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -1220,6 +1222,7 @@ daily leetcode solution available
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1504,6 +1507,7 @@ daily leetcode solution available
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -2144,6 +2148,7 @@ daily leetcode solution available
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
