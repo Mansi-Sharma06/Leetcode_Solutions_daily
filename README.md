@@ -202,6 +202,7 @@ daily leetcode solution available
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
@@ -1461,6 +1462,7 @@ daily leetcode solution available
 | [2029-stone-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2140-longest-subsequence-repeated-k-times) |
