@@ -413,6 +413,7 @@ daily leetcode solution available
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -553,6 +554,7 @@ daily leetcode solution available
 | [3546-equal-sum-grid-partition-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -836,6 +838,7 @@ daily leetcode solution available
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -977,6 +980,7 @@ daily leetcode solution available
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3583-count-special-triplets) |
@@ -2239,6 +2243,7 @@ daily leetcode solution available
 | [3310-remove-methods-from-project](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
