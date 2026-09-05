@@ -489,6 +489,7 @@ daily leetcode solution available
 | [3875-construct-uniform-parity-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1311,6 +1312,7 @@ daily leetcode solution available
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
