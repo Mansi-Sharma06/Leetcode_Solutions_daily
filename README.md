@@ -1027,6 +1027,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0115-distinct-subsequences/) | Hard |
 | [0165-compare-version-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
@@ -1534,6 +1535,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
