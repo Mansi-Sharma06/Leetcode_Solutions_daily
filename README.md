@@ -1047,6 +1047,7 @@ daily leetcode solution available
 | [0812-rotate-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1556,6 +1557,7 @@ daily leetcode solution available
 | [0877-stone-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0877-stone-game/) | Medium |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1063-best-sightseeing-pair) |
