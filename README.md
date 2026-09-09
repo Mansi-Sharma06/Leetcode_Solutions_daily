@@ -768,6 +768,7 @@ daily leetcode solution available
 | [3830-find-closest-person](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
