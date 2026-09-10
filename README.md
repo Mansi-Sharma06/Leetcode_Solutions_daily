@@ -1727,6 +1727,7 @@ daily leetcode solution available
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -2195,6 +2196,7 @@ daily leetcode solution available
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -2278,6 +2280,7 @@ daily leetcode solution available
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
