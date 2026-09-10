@@ -14,22 +14,31 @@
  * }
  */
 class Solution {
-  public int averageOfSubtree(TreeNode root) {
-    dfs(root);
-    return ans;
-  }
+    int count = 0;
+    
+    Pair<Integer, Integer> postOrder(TreeNode root) {
+        if (root == null) {
+            return new Pair(0, 0);
+        }
+        
+        // First iterate over left and right subtrees.
+        Pair<Integer, Integer> left = postOrder(root.left);
+        Pair<Integer, Integer> right = postOrder(root.right);
+        
+        int nodeSum = left.getKey() + right.getKey() + root.val;
+        int nodeCount = left.getValue() + right.getValue() + 1;
 
-  private int ans = 0;
-
-  private Pair<Integer, Integer> dfs(TreeNode root) {
-    if (root == null)
-      return new Pair<>(0, 0);
-    Pair<Integer, Integer> left = dfs(root.left);
-    Pair<Integer, Integer> right = dfs(root.right);
-    final int sum = root.val + left.getKey() + right.getKey();
-    final int count = 1 + left.getValue() + right.getValue();
-    if (sum / count == root.val)
-      ++ans;
-    return new Pair<>(sum, count);
-  }
+        // Check if the average of the subtree is equal to the node value.
+        if (root.val == nodeSum / (nodeCount)) {
+            count++;
+        }
+        
+        // Return the sum of nodes and the count in the subtree.
+        return new Pair(nodeSum, nodeCount);
+    }
+    
+    public int averageOfSubtree(TreeNode root) {
+        postOrder(root);
+        return count;
+    }
 }
