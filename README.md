@@ -376,6 +376,7 @@ daily leetcode solution available
 | [3379-transformed-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3429-special-array-i) |
@@ -1414,6 +1415,7 @@ daily leetcode solution available
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3430-count-days-without-meetings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1623,6 +1625,7 @@ daily leetcode solution available
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1815,6 +1818,7 @@ daily leetcode solution available
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3453-separate-squares-i) |
