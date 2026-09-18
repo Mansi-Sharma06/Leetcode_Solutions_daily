@@ -909,6 +909,7 @@ daily leetcode solution available
 | [1500-count-largest-group](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -1086,6 +1087,7 @@ daily leetcode solution available
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1363,6 +1365,7 @@ daily leetcode solution available
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -1473,6 +1476,7 @@ daily leetcode solution available
 | [1448-maximum-69-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
