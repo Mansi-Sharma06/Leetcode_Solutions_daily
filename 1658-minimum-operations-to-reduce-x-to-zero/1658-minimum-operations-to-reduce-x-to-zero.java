@@ -1,28 +1,20 @@
 class Solution {
-  public int minOperations(int[] nums, int x) {
-    final int targetSum = Arrays.stream(nums).sum() - x;
-    if (targetSum == 0)
-      return nums.length;
-    final int maxLen = maxSubArrayLen(nums, targetSum);
-    return maxLen == -1 ? -1 : nums.length - maxLen;
-  }
+    public int minOperations(int[] A, int x) {
+        int k = -x, n = A.length;
+        for (int a : A) k += a;
+        if (k < 0) return -1;
+        if (k == 0) return n;
 
-  // Same as 325. Maximum Size Subarray Sum Equals k
-  private int maxSubArrayLen(int[] nums, int k) {
-    int res = -1;
-    int prefix = 0;
-    Map<Integer, Integer> prefixToIndex = new HashMap<>();
-    prefixToIndex.put(0, -1);
+        int best = -1, i = 0, s = 0;
+        for (int j = 0; j < n; j++) {
+            s += A[j];
+            while (s > k)
+                s -= A[i++];
 
-    for (int i = 0; i < nums.length; ++i) {
-      prefix += nums[i];
-      final int target = prefix - k;
-      if (prefixToIndex.containsKey(target))
-        res = Math.max(res, i - prefixToIndex.get(target));
-      // No need to check the existence of the prefix since it's unique.
-      prefixToIndex.put(prefix, i);
+            if (s == k)
+                best = Math.max(best, j - i + 1);
+        }
+
+        return best < 0 ? -1 : n - best;
     }
-
-    return res;
-  }
 }
