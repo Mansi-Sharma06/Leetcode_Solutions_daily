@@ -416,6 +416,7 @@ daily leetcode solution available
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -752,6 +753,7 @@ daily leetcode solution available
 | [3525-find-x-value-of-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
