@@ -1086,6 +1086,7 @@ daily leetcode solution available
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1969,6 +1970,7 @@ daily leetcode solution available
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -2569,4 +2571,8 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
