@@ -1085,6 +1085,7 @@ daily leetcode solution available
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1160-letter-tile-possibilities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -1974,6 +1975,7 @@ daily leetcode solution available
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -2579,6 +2581,7 @@ daily leetcode solution available
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
