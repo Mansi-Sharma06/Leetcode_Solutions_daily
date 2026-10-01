@@ -1052,6 +1052,7 @@ daily leetcode solution available
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0115-distinct-subsequences/) | Hard |
@@ -1967,6 +1968,7 @@ daily leetcode solution available
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
@@ -2581,6 +2583,7 @@ daily leetcode solution available
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
