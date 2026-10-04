@@ -1,42 +1,36 @@
 class Solution {
     public boolean checkValidString(String s) {
-        // Stacks to store indices of open brackets and asterisks
-        Stack<Integer> openBrackets = new Stack < > ();
-        Stack<Integer> asterisks = new Stack < > ();
+        int n = s.length();
+        // dp[i][j] represents if the substring starting from index i is valid with j opening brackets
+        boolean[][] dp = new boolean[n + 1][n + 1];
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+        // base case: an empty string with 0 opening brackets is valid
+        dp[n][0] = true;
 
-            // If current character is an open bracket, push its index onto the stack
-            if (ch == '(') {
-                openBrackets.push(i);
-            }
-            // If current character is an asterisk, push its index onto the stack
-            else if (ch == '*') {
-                asterisks.push(i);
-                // current character is a closing bracket ')'
-            } else {
-                // If there are open brackets available, use them to balance the closing bracket
-                if (!openBrackets.empty()) {
-                    openBrackets.pop();
-                // If no open brackets are available, use an asterisk to balance the closing bracket
-                } else if (!asterisks.isEmpty()) {
-                    asterisks.pop();
+        for (int index = n - 1; index >= 0; index--) {
+            for (int openBracket = 0; openBracket < n; openBracket++) {
+                boolean isValid = false;
+
+                // '*' can represent '(' or ')' or '' (empty)
+                if (s.charAt(index) == '*') {
+                    isValid |= dp[index + 1][openBracket + 1]; // try '*' as '('
+                    // opening brackets to use '*' as ')'
+                    if (openBracket > 0) {
+                        isValid |= dp[index + 1][openBracket - 1]; // try '*' as ')'
+                    }
+                    isValid |= dp[index + 1][openBracket]; // ignore '*'
                 } else {
-                    return false;
+                    // If the character is not '*', it can be '(' or ')'
+                    if (s.charAt(index) == '(') {
+                        isValid |= dp[index + 1][openBracket + 1]; // try '('
+                    } else if (openBracket > 0) {
+                        isValid |= dp[index + 1][openBracket - 1]; // try ')'
+                    }
                 }
+                dp[index][openBracket] = isValid;
             }
         }
 
-        // Check if there are remaining open brackets and asterisks that can balance them
-        while (!openBrackets.isEmpty() && !asterisks.isEmpty()) {
-            // If an open bracket appears after an asterisk, it cannot be balanced, return false
-            if (openBrackets.pop() > asterisks.pop()) {
-                return false; // '*' before '(' which cannot be balanced.
-            }
-        }
-
-        // If all open brackets are matched and there are no unmatched open brackets left, return true
-        return openBrackets.isEmpty();
+        return dp[0][0]; // check if the entire string is valid with no excess opening brackets
     }
 }
