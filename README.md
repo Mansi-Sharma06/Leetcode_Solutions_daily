@@ -1068,6 +1068,7 @@ daily leetcode solution available
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0756-pyramid-transition-matrix) |
@@ -1486,6 +1487,7 @@ daily leetcode solution available
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1593,6 +1595,7 @@ daily leetcode solution available
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0788-rotated-digits/) | Medium |
@@ -1976,6 +1979,7 @@ daily leetcode solution available
 | [0032-longest-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
@@ -2592,6 +2596,7 @@ daily leetcode solution available
 | [0020-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
