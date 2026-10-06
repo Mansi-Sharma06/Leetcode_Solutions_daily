@@ -1079,6 +1079,7 @@ daily leetcode solution available
 | [0856-score-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0856-score-of-parentheses/) | Medium |
 | [0868-push-dominoes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0952-word-subsets) |
@@ -1493,6 +1494,7 @@ daily leetcode solution available
 | [0768-partition-labels](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1018-largest-perimeter-triangle) |
@@ -1983,6 +1985,7 @@ daily leetcode solution available
 | [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1002-maximum-width-ramp) |
@@ -2600,6 +2603,7 @@ daily leetcode solution available
 | [0032-longest-valid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
