@@ -1063,6 +1063,7 @@ daily leetcode solution available
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
@@ -2199,6 +2200,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0679-24-game) |
@@ -2292,6 +2294,7 @@ daily leetcode solution available
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
