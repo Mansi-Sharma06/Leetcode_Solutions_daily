@@ -1116,6 +1116,7 @@ daily leetcode solution available
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1511,6 +1512,7 @@ daily leetcode solution available
 | [1502-construct-k-palindrome-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -1998,6 +2000,7 @@ daily leetcode solution available
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2612,6 +2615,7 @@ daily leetcode solution available
 | [1021-remove-outermost-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
