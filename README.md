@@ -316,6 +316,7 @@ daily leetcode solution available
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2792-neighboring-bitwise-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -2244,6 +2245,7 @@ daily leetcode solution available
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2998-count-symmetric-integers) |
