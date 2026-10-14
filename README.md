@@ -779,6 +779,7 @@ daily leetcode solution available
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -1592,6 +1593,7 @@ daily leetcode solution available
 | [3689-maximum-total-subarray-value-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
