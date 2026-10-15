@@ -327,6 +327,7 @@ daily leetcode solution available
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-count-of-interesting-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -988,6 +989,7 @@ daily leetcode solution available
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-count-of-interesting-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2915-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1943,6 +1945,7 @@ daily leetcode solution available
 | [1622-fancy-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
@@ -2445,6 +2448,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
