@@ -424,6 +424,7 @@ daily leetcode solution available
 | [3546-equal-sum-grid-partition-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1024,6 +1025,7 @@ daily leetcode solution available
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1481,6 +1483,7 @@ daily leetcode solution available
 | [3531-count-covered-buildings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
