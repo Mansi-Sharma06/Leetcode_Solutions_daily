@@ -138,6 +138,7 @@ daily leetcode solution available
 | [1524-string-matching-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -693,6 +694,7 @@ daily leetcode solution available
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1622-fancy-sequence/) | Hard |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1651,6 +1653,7 @@ daily leetcode solution available
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1749,6 +1752,7 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2304,6 +2308,7 @@ daily leetcode solution available
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -2390,6 +2395,7 @@ daily leetcode solution available
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -2496,6 +2502,7 @@ daily leetcode solution available
 | [0761-special-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -2506,6 +2513,7 @@ daily leetcode solution available
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -2583,11 +2591,13 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -2645,4 +2655,8 @@ daily leetcode solution available
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
