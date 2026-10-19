@@ -208,6 +208,7 @@ daily leetcode solution available
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2107-find-unique-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1425,6 +1426,7 @@ daily leetcode solution available
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -1875,6 +1877,7 @@ daily leetcode solution available
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2179-most-beautiful-item-for-each-query) |
