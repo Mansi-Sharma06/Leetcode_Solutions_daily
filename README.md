@@ -507,6 +507,7 @@ daily leetcode solution available
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
@@ -802,6 +803,7 @@ daily leetcode solution available
 | [3871-count-commas-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1503,6 +1505,7 @@ daily leetcode solution available
 | [3731-find-missing-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2296,6 +2299,7 @@ daily leetcode solution available
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
