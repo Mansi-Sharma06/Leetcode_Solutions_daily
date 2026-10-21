@@ -1257,6 +1257,7 @@ daily leetcode solution available
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 | Problem Name | Difficulty |
