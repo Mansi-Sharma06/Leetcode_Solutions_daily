@@ -461,6 +461,7 @@ daily leetcode solution available
 | [3640-trionic-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -883,6 +884,7 @@ daily leetcode solution available
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
