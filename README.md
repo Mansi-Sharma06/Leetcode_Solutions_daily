@@ -98,6 +98,7 @@ daily leetcode solution available
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1256-rank-transform-of-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1256-rank-transform-of-an-array) |
 | [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1266-minimum-time-visiting-all-points) |
@@ -530,6 +531,7 @@ daily leetcode solution available
 | [0854-making-a-large-island](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -1809,6 +1811,7 @@ daily leetcode solution available
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -2356,6 +2359,7 @@ daily leetcode solution available
 | [1096-brace-expansion-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -2608,6 +2612,7 @@ daily leetcode solution available
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
