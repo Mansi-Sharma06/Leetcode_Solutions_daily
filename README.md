@@ -444,6 +444,7 @@ daily leetcode solution available
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -585,6 +586,7 @@ daily leetcode solution available
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -1844,6 +1846,7 @@ daily leetcode solution available
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
@@ -2393,6 +2396,7 @@ daily leetcode solution available
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -2624,6 +2628,7 @@ daily leetcode solution available
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
