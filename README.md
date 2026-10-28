@@ -510,6 +510,7 @@ daily leetcode solution available
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -596,6 +597,7 @@ daily leetcode solution available
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -894,6 +896,7 @@ daily leetcode solution available
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1748,6 +1751,7 @@ daily leetcode solution available
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
