@@ -1274,6 +1274,7 @@ daily leetcode solution available
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2255,6 +2256,7 @@ daily leetcode solution available
 | [3678-design-task-manager](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2483,6 +2485,7 @@ daily leetcode solution available
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2620,6 +2623,7 @@ daily leetcode solution available
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
