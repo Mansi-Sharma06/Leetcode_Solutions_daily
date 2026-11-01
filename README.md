@@ -46,6 +46,7 @@ daily leetcode solution available
 | [0407-trapping-rain-water-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
@@ -674,6 +675,7 @@ daily leetcode solution available
 | [0342-power-of-four](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
