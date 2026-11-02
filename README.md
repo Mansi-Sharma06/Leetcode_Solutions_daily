@@ -47,6 +47,7 @@ daily leetcode solution available
 | [0416-partition-equal-subset-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0494-target-sum) |
@@ -676,6 +677,7 @@ daily leetcode solution available
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1414,6 +1416,7 @@ daily leetcode solution available
 | [0075-sort-colors](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0611-valid-triangle-number) |
