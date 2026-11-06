@@ -316,6 +316,7 @@ daily leetcode solution available
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
@@ -1013,6 +1014,7 @@ daily leetcode solution available
 | [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2755-extra-characters-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -1489,6 +1491,7 @@ daily leetcode solution available
 | [2689-rearranging-fruits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -2180,6 +2183,7 @@ daily leetcode solution available
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
