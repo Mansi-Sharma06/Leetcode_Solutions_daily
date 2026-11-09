@@ -148,6 +148,7 @@ daily leetcode solution available
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -620,6 +621,7 @@ daily leetcode solution available
 | [0983-validate-stack-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0983-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1642-water-bottles](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -2027,6 +2029,7 @@ daily leetcode solution available
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0731-my-calendar-ii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2023-design-movie-rental-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2023-design-movie-rental-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2280-count-good-triplets-in-an-array) |
@@ -2240,6 +2243,7 @@ daily leetcode solution available
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1882-process-tasks-using-servers/) | Medium |
