@@ -487,6 +487,7 @@ daily leetcode solution available
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3719-longest-balanced-subarray-i) |
@@ -1773,6 +1774,7 @@ daily leetcode solution available
 | [3660-jump-game-ix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
