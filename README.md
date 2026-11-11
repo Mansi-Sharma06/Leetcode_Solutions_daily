@@ -824,6 +824,7 @@ daily leetcode solution available
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3830-find-closest-person](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1653,6 +1654,7 @@ daily leetcode solution available
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
