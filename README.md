@@ -399,6 +399,7 @@ daily leetcode solution available
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3427-special-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3430-count-days-without-meetings) |
@@ -2017,6 +2018,7 @@ daily leetcode solution available
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3454-separate-squares-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -2058,6 +2060,7 @@ daily leetcode solution available
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
@@ -2108,6 +2111,7 @@ daily leetcode solution available
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -2207,6 +2211,7 @@ daily leetcode solution available
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3483-alternating-groups-ii) |
@@ -2236,6 +2241,7 @@ daily leetcode solution available
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -2483,6 +2489,7 @@ daily leetcode solution available
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
 | Problem Name | Difficulty |
