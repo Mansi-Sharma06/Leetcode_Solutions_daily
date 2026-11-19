@@ -294,6 +294,7 @@ daily leetcode solution available
 | [2553-separate-the-digits-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1501,6 +1502,7 @@ daily leetcode solution available
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1624,6 +1626,7 @@ daily leetcode solution available
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2618-maximize-the-minimum-powered-city) |
