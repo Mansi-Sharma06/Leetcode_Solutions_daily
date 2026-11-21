@@ -393,6 +393,7 @@ daily leetcode solution available
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1055,6 +1056,7 @@ daily leetcode solution available
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1267,6 +1269,7 @@ daily leetcode solution available
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3396-valid-word) |
@@ -1899,6 +1902,7 @@ daily leetcode solution available
 | [2793-count-the-number-of-complete-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -2414,6 +2418,7 @@ daily leetcode solution available
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
