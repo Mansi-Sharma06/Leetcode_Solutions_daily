@@ -403,6 +403,7 @@ daily leetcode solution available
 | [3379-transformed-array](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -792,6 +793,7 @@ daily leetcode solution available
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3462-vowels-game-in-a-string) |
@@ -859,6 +861,7 @@ daily leetcode solution available
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2239,6 +2242,7 @@ daily leetcode solution available
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -2379,6 +2383,7 @@ daily leetcode solution available
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
