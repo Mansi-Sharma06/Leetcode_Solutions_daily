@@ -535,6 +535,7 @@ daily leetcode solution available
 | [3886-sum-of-sortable-integers](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -1116,6 +1117,7 @@ daily leetcode solution available
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1845,6 +1847,7 @@ daily leetcode solution available
 | [0214-shortest-palindrome](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1862,6 +1865,7 @@ daily leetcode solution available
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2014,6 +2018,7 @@ daily leetcode solution available
 | [3790-fruits-into-baskets-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2781,4 +2786,8 @@ daily leetcode solution available
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
