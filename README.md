@@ -537,6 +537,7 @@ daily leetcode solution available
 | [3904-smallest-stable-index-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1686,6 +1687,7 @@ daily leetcode solution available
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1818,6 +1820,7 @@ daily leetcode solution available
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mansi-Sharma06/Leetcode_Solutions_daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
